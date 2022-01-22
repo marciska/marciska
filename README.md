@@ -1,17 +1,14 @@
-<!--
 <p align="center">
-  <a href="banner.com"><img src="banner.png" alt="makokaz Banner"></a>
+  <img alt="makokaz Banner" src="https://github.com/makokaz/makokaz/blob/main/header.png">
 </p>
--->
 
-### Hi there, I'm Marco (makokaz) 👋
-
-- 🔭 Right now I’m a Ph.D. student at The University of Tokyo, Japan
+### I'm a Ph.D. student at The University of Tokyo, Japan 🎓
+- 🔭 Doing research about Cognitive Cyber-Physical Systems 🤖
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m open to collaborations (research, but also hobby open source projects)
-- 🥅 2022 Goals: Learn Web Development and make my own webpage
-- 💬 Ask me about anything 🙂
-- ⚡ Fun fact: I love to go fishing and playing Shogi (Japanese chess)
+- 👯 I’m open to collaborations (research, but also hobby open source projects) 
+- 🥅 2022 Goals: Learn Web Development and make my own webpage 💻
+- 💬 Ask me anything 🙂
+- ⚡ Fun fact: I love to go fishing 🎣 and playing Shogi (Japanese chess) ☗
 
 ### How to connect with me
 
@@ -19,7 +16,7 @@
 [<img align="left" alt="makokaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="makokaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -41,13 +38,13 @@
 <img align="left" alt="Unreal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<br />
-<br />
+<br>
+<br>
 
 ---
 
 <p align="center">
-  <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makokaz&hide=stars&show_icons=true&hide_border=true&theme=dracula" />
+  <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makokaz&hide=stars&show_icons=true&hide_border=true&theme=dracula">
 </p>
 
 
