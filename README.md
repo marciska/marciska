@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makokaz&hide=stars&show_icons=true&hide_border=true&theme=dracula">
+  <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=macoska&hide=stars&show_icons=true&hide_border=true&theme=dracula">
 </p>
 
 
