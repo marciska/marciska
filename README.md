@@ -1,11 +1,14 @@
 <p align="center">
-  <img alt="makokaz Banner" src="https://github.com/makokaz/makokaz/blob/main/header.png">
+  <img alt="makokaz Banner" src="https://github.com/macoska/macoska/blob/main/img/header.png">
 </p>
 
 ### I'm a Ph.D. student at The University of Tokyo, Japan 🎓
+
+[![VPC](img/research_vpc.gif)][VPC]
+
 - 🔭 Doing research about Cognitive Cyber-Physical Systems 🤖
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m open to collaborations (research, but also hobby open source projects) 
+- 👯 I’m open to collaborations (research, but also hobby open source projects)
 - 🥅 2022 Goals: Learn Web Development and make my own webpage 💻
 - 💬 Ask me anything 🙂
 - ⚡ Fun fact: I love to go fishing 🎣 and playing Shogi (Japanese chess) ☗
@@ -18,7 +21,7 @@
 
 <br>
 
-### Languages and Tools:
+### Languages and Tools
 
 <!-- Icons from: https://github.com/topics -->
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
@@ -47,7 +50,7 @@
   <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=macoska&hide=stars&show_icons=true&hide_border=true&theme=dracula">
 </p>
 
-
+[VPC]: https://github.com/macoska/vpc-switched-motion
 [website]: https://www.scl.ipc.i.u-tokyo.ac.jp
 [linkedin]: https://linkedin.com/in/marco-omainska
 [instagram]: https://instagram.com/makokaz
