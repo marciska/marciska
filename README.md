@@ -13,6 +13,13 @@
 - 💬 Ask me anything 🙂
 - ⚡ Fun fact: I love to go fishing 🎣 and playing Shogi (Japanese chess) ☗
 
+### Highlighted repositories
+
+| Repositories related to | Links |
+| --- | --- |
+| my research | - [Visual Pursuit Control Library](https://github.com/macoska/visual-pursuit-control) <br> - [Pursuit of a bird in a dynamical Unity environment](https://github.com/macoska/vpc-switched-motion)|
+| hobby game projects | - [Laser Defender Revenge](https://github.com/macoska/laser-defender-revenge) <br> - [TileVania](https://github.com/macoska/tilevania) <br> - [Glitch Garden](https://github.com/macoska/glitch-garden) <br> - [Block Breaker Ball Hell](https://github.com/macoska/block-breaker-ball-hell) |
+
 ### How to connect with me
 
 [<img align="left" alt="scl.ipc.i.u-tokyo.ac.jp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
