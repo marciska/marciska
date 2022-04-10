@@ -19,6 +19,7 @@
 | --- | --- |
 | my research | - [Pursuit of a bird in a dynamical Unity environment](https://github.com/macoska/vpc-switched-motion) <br> - [Visual Pursuit Control Library](https://github.com/macoska/visual-pursuit-control) |
 | hobby game projects | - [Laser Defender Revenge](https://github.com/macoska/laser-defender-revenge) <br> - [TileVania](https://github.com/macoska/tilevania) <br> - [Glitch Garden](https://github.com/macoska/glitch-garden) <br> - [Block Breaker Ball Hell](https://github.com/macoska/block-breaker-ball-hell) |
+| other | - [Discord Japanese Festival Web Crawler Bot](https://github.com/macoska/matsubo) |
 
 ### How to connect with me
 
