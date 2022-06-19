@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="makokaz Banner" src="https://github.com/macoska/macoska/blob/main/img/header.png">
+  <img alt="marciska Banner" src="https://github.com/marciska/marciska/blob/main/img/header.png">
 </p>
 
 ### I'm a Ph.D. student at The University of Tokyo, Japan 🎓
@@ -17,14 +17,14 @@
 
 | Repositories related to | Links |
 | --- | --- |
-| my research | - [Pursuit of a bird in a dynamical Unity environment](https://github.com/macoska/vpc-switched-motion) <br> - [Visual Pursuit Control Library](https://github.com/macoska/visual-pursuit-control) |
-| hobby game projects | - [Laser Defender Revenge](https://github.com/macoska/laser-defender-revenge) <br> - [TileVania](https://github.com/macoska/tilevania) <br> - [Glitch Garden](https://github.com/macoska/glitch-garden) <br> - [Block Breaker Ball Hell](https://github.com/macoska/block-breaker-ball-hell) |
-| other | - [Discord Japanese Festival Web Crawler Bot](https://github.com/macoska/matsubo) |
+| my research | - [Pursuit of a bird in a dynamical Unity environment](https://github.com/marciska/vpc-switched-motion) <br> - [Visual Pursuit Control Library](https://github.com/marciska/visual-pursuit-control) |
+| hobby game projects | - [Laser Defender Revenge](https://github.com/marciska/laser-defender-revenge) <br> - [TileVania](https://github.com/marciska/tilevania) <br> - [Glitch Garden](https://github.com/marciska/glitch-garden) <br> - [Block Breaker Ball Hell](https://github.com/marciska/block-breaker-ball-hell) |
+| other | - [Discord Japanese Festival Web Crawler Bot](https://github.com/marciska/matsubo) |
 
 ### How to connect with me
 
 [<img align="left" alt="scl.ipc.i.u-tokyo.ac.jp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="makokaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Marco Omainska | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="makokaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
@@ -55,10 +55,10 @@
 ---
 
 <p align="center">
-  <img alt="makokaz' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=macoska&hide=stars&show_icons=true&hide_border=true&theme=dracula">
+  <img alt="marciska's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marciska&hide=stars&show_icons=true&hide_border=true&theme=dracula">
 </p>
 
-[VPC]: https://github.com/macoska/vpc-switched-motion
+[VPC]: https://github.com/marciska/vpc-switched-motion
 [website]: https://www.scl.ipc.i.u-tokyo.ac.jp
 [linkedin]: https://linkedin.com/in/marco-omainska
 [instagram]: https://instagram.com/makokaz
