@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img alt="marciska's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marciska&hide=stars&show_icons=true&hide_border=true&theme=dracula">
+  <img alt="marciska's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marciska&show_icons=true&hide_border=true&theme=dracula">
 </p>
 
 [VPC]: https://github.com/marciska/vpc-switched-motion
