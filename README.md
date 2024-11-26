@@ -2,16 +2,15 @@
   <img alt="marciska Banner" src="https://github.com/marciska/marciska/blob/main/img/header.png">
 </p>
 
-### I'm a Ph.D. student at The University of Tokyo, Japan 🎓
+### I'm an Automation Engineer affiliated with Telexistence Inc. to shape the leading edge of robotics in the retail market, and a Ph.D. Graduate from The University of Tokyo, Japan 🎓
 
 [![VPC](img/research_vpc.gif)][VPC]
 
-- 🔭 Doing research about Cognitive Cyber-Physical Systems 🤖
+- 🤖 Automation Engineer @ [Telexistence Inc.](https://tx-inc.com/en/home/), Tokyo, Japan
+- 🔭 Ph.D in Cognitive Cyber-Physical Systems 🤖
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m open to collaborations (research, but also hobby open source projects)
-- 🥅 2022 Goals: Learn Web Development and make my own webpage 💻
 - 💬 Ask me anything 🙂
-- ⚡ Fun fact: I love to go fishing 🎣 and playing Shogi (Japanese chess) ☗
+- ⚡ Fun fact: I love to go running (already did few Marathons) 🏃 and fishing 🎣
 
 ### Highlighted repositories
 
@@ -23,7 +22,7 @@
 
 ### How to connect with me
 
-[<img align="left" alt="scl.ipc.i.u-tokyo.ac.jp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="marciska.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Marco Omainska | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="makokaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -59,6 +58,6 @@
 </p>
 
 [VPC]: https://github.com/marciska/vpc-switched-motion
-[website]: https://www.scl.ipc.i.u-tokyo.ac.jp
+[website]: https://marciska.com/
 [linkedin]: https://linkedin.com/in/marco-omainska
 [instagram]: https://instagram.com/makokaz
