@@ -18,7 +18,7 @@
 | --- | --- |
 | my research | - [Pursuit of a bird in a dynamical Unity environment](https://github.com/marciska/vpc-switched-motion) <br> - [Visual Pursuit Control Library](https://github.com/marciska/visual-pursuit-control) |
 | hobby game projects | - [Laser Defender Revenge](https://github.com/marciska/laser-defender-revenge) <br> - [TileVania](https://github.com/marciska/tilevania) <br> - [Glitch Garden](https://github.com/marciska/glitch-garden) <br> - [Block Breaker Ball Hell](https://github.com/marciska/block-breaker-ball-hell) |
-| other | - [Discord Japanese Festival Web Crawler Bot](https://github.com/marciska/matsubo) |
+| other | - [Jitai](https://github.com/marciska/Jitai) <br> - [Discord Japanese Festival Web Crawler Bot](https://github.com/marciska/matsubo) |
 
 ### How to connect with me
 
